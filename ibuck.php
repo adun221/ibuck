@@ -15,9 +15,9 @@ function asw($a, $user) {
 	return $result;	
 }
 echo "USERNAME : ";
-$user = maemun;
+$user = 'maemun';
 echo "JUMLAH   : ";
-$jum = 3;
+$jum = '3';
 echo "Selamat Datang ".$user."\n\n";
 for($a=0;$a<$jum;$a++){
 sleep (10);
