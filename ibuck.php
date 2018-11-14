@@ -15,9 +15,9 @@ function asw($a, $user) {
 	return $result;	
 }
 echo "USERNAME : ";
-$user = trim(fgets(STDIN));
+$user = maemun;
 echo "JUMLAH   : ";
-$jum = trim(fgets(STDIN));
+$jum = 30;
 echo "Selamat Datang ".$user."\n\n";
 for($a=0;$a<$jum;$a++){
 sleep (10);
