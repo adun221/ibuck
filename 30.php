@@ -14,9 +14,9 @@ function asw($a, $user) {
 		$result = curl_exec($ch);
 	return $result;	
 }
-echo "USERNAME : ";
+echo "USERNAME : maemun <br> ";
 $user = 'maemun';
-echo "JUMLAH   : ";
+echo "JUMLAH   : 30 <br>.";
 $jum = '30';
 echo "Selamat Datang ".$user."\n\n";
 for($a=0;$a<$jum;$a++){
